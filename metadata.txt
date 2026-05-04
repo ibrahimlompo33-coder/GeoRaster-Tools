@@ -1,0 +1,24 @@
+[general]
+name=GeoRaster Tools
+qgisMinimumVersion=3.16
+description=Vectorise un raster en couche vectorielle (polygones ou lignes de contour). Inclut indices spectraux, analyse terrain, calcul sécurisé, stats zonales exactes, classification supervisée (Random Forest) et non supervisée (K-Means).
+version=1.1.1
+author=LOMPO Ibrahim
+email=ibrahimlompo33@gmail.com
+about=GeoRaster Tools v1.1.1 — Développé par LOMPO Ibrahim (Burkina Faso, Afrique de l'Ouest).
+      Corrections sécurité (eval→AST), threading QgsTask, stats zonales par masque
+      géométrique réel, K-Means avec StandardScaler, RF avec métriques OA/Kappa/
+      matrice de confusion/feature_importances_, raster→points vectorisé NumPy,
+      validation bandes, logs QgsMessageLog.
+      Dépendances optionnelles : scikit-learn (classification ML).
+repository=https://github.com/ibrahimlompo33-coder/GeoRaster-Tools
+tracker=https://github.com/ibrahimlompo33-coder/GeoRaster-Tools/issues
+homepage=https://github.com/ibrahimlompo33-coder/GeoRaster-Tools
+tags=raster, vectorisation, polygone, contour, gdal, indices, ndvi, random forest, kmeans, terrain
+category=Raster
+icon=icon.png
+experimental=False
+deprecated=False
+license=GNU GPL v2
+license_url=https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+hasProcessingProvider=no
