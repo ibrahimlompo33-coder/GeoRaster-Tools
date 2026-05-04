@@ -1,0 +1,5 @@
+# Dépendances Python — GeoRaster Tools
+# QGIS embarque déjà : numpy, gdal (osgeo), PyQt5
+# Installation manuelle requise pour la classification ML :
+
+scikit-learn>=1.0.0

@@ -1,0 +1,7 @@
+GNU GENERAL PUBLIC LICENSE — Version 2, June 1991
+Copyright (C) 2026 LOMPO Ibrahim <ibrahimlompo33@gmail.com>
+Burkina Faso, Afrique de l'Ouest
+
+Ce plugin QGIS est un logiciel libre distribué sous licence GNU GPL v2.
+Vous pouvez le redistribuer et/ou le modifier selon les termes de cette licence.
+Texte complet : https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
