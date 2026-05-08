@@ -1,6 +1,6 @@
 # ===========================================================================
 #  GeoRaster Tools
-#  Version 1.1.0 — voir CHANGELOG en bas de fichier
+#  Version 1.1.1 — voir CHANGELOG en bas de fichier
 # ===========================================================================
 #
 #  CORRECTIONS APPORTÉES :
